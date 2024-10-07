@@ -1,0 +1,289 @@
+[
+   {
+      "Name": "Wang Toi Shan Playground",
+      "Address": "Wang Toi Shan, Fan Kam Road, Pat Heung, Yuen Long",
+      "Facility": "",
+      "Pit": "4 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Butterfly Beach Park",
+      "Address": "Area 45, Lung Mun Road, Tuen Mun (Near Melody Garden)",
+      "Facility": "Toilets, Children's Play Area, Fitness Corner for Elderly",
+      "Pit": "80 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Cafeteria Old Beach",
+      "Address": "18 3/4 milestone,Castle Peak Road",
+      "Facility": "Light Refreshment Kiosk, Toilets",
+      "Pit": "23 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Castle Peak Beach",
+      "Address": "19 milestone,Castle Peak Road",
+      "Facility": "Restaurant, Toilets, Children's Play Area, Public Fee-paying Car Parks",
+      "Pit": "27 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Kadoorie Beach",
+      "Address": "18 3/4 milestone,Castle Peak Road",
+      "Facility": "Toilets",
+      "Pit": "6 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Clear Water Bay First Beach ",
+      "Address": "Tai Wan Tau, Clear Water Bay Road",
+      "Facility": "15 barbecue pits, benches &amp; tables, toilet",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Kiu Tsui Beach ",
+      "Address": "Kiu Tsui, Sharp Island ",
+      "Facility": "13 barbecue pits, benches &amp; tables, toilet",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Trio Beach ",
+      "Address": "Trio (Hebehaven) Beach",
+      "Facility": "20 barbecue pits, benches &amp; tables, toilet",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Kwei Tei Street Garden",
+      "Address": "Kwei Tei Street, Fo Tan, Sha Tin",
+      "Facility": "",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Lok Shun Path Barbecue Area",
+      "Address": "Lok Shun Path, Sha Tin",
+      "Facility": "",
+      "Pit": "6 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Big Wave Bay Beach",
+      "Address": "Big Wave Bay Road, Shek O, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "20 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Big Wave Bay Picnic Area",
+      "Address": "Big Wave Bay Road, Shek O, Hong Kong",
+      "Facility": "Toilets are provided.",
+      "Pit": "6 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Chung Hom Kok Beach",
+      "Address": "Chung Hom Kok Road, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "25 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Chung Hom Kok Park",
+      "Address": "Chung Hom Kok Road, Hong Kong",
+      "Facility": "",
+      "Pit": "3 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Deep Water Bay Beach",
+      "Address": "Island Road, Deep Water Bay, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "33 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Hair Pin Beach ",
+      "Address": "Stanley Beach Road, Stanley, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "22 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Middle Bay Beach",
+      "Address": "South Bay Road, Repulse Bay, Hong Kong",
+      "Facility": "",
+      "Pit": "9 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Shek O Beach",
+      "Address": "Shek O Road, Shek O, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "39 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Shek O Headland Picnic Area",
+      "Address": "Shek O Headland Road, Shek O, Hong Kong",
+      "Facility": "",
+      "Pit": "3 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "South Bay Beach",
+      "Address": "South Bay Road, Repulse Bay, Hong Kong",
+      "Facility": "",
+      "Pit": "19 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "St. Stephen&apos;s Beach",
+      "Address": "Wong Ma Kok Path, Stanley, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "14 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Stanley Main Beach",
+      "Address": "Stanley Beach Road, Stanley, Hong Kong",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "15 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Turtle Cove Beach",
+      "Address": "Tai Tam Road, Stanley, Hong Kong",
+      "Facility": "Toilets",
+      "Pit": "12 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Waterfall Bay Park",
+      "Address": "Waterfall Bay Road, Wah Fu Estate, Aberdeen, Hong Kong",
+      "Facility": "Toilets and accessible toilet are provided.",
+      "Pit": "10 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Anglers' Beach",
+      "Address": "13 milestone, Castle Peak Road - Sham Tseng",
+      "Facility": "<li>Toilet</li>",
+      "Pit": "7 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Gemini Beaches",
+      "Address": "12 milestone, Castle Peak Road - Sham Tseng",
+      "Facility": "<li>Toilet</li>",
+      "Pit": "2 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Hoi Mei Wan Beach",
+      "Address": "11 3/4 milestone, Castle Peak Road - Ting Kau",
+      "Facility": "<li>Toilet</li>",
+      "Pit": "3 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Lion Rock Park",
+      "Address": "Chuk Yuen Road, Wong Tai Sin, Kowloon",
+      "Facility": "<li>26 sets of tables and benches at BBQ area\r\n<br><li>Men\u2019s and ladies\u2019 toilets (including accessible toilet)\r\n<br><li>Lighting system\r\n<br><li>1 children play area\r\n<br><li>3 elderly fitness corners\r\n<br><li>1 designated disabled parking space<br>\r\n",
+      "Pit": "26 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Cheung Po Chai Cave Picnic Area",
+      "Address": "Cheung Po Chai Road, Cheung Chau",
+      "Facility": "<li>Picnic tables<br><li>Pavilion<br>",
+      "Pit": "6 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Hung Shing Yeh Beach",
+      "Address": "Hung Shing Yeh Beach, Yung Shue Wan, Lamma Island",
+      "Facility": "<li>Wash basin (with 2 taps)<br><li>Toilets (including accessible toilet)<br>",
+      "Pit": "9 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Lo So Shing Beach",
+      "Address": "Lo So Shing Beach, Sok Kwu Wan, Lamma Island",
+      "Facility": "Toilets",
+      "Pit": "6 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Lo Tik Wan Barbecue Area",
+      "Address": "Lo Tik Wan, Lamma",
+      "Facility": "Picnic table",
+      "Pit": "2 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Po Chu Tam BBQ Area",
+      "Address": "Tai O, Lantau Island",
+      "Facility": "<li>Garden bench<br><li>Chess table <br>",
+      "Pit": "3 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Pui O Beach",
+      "Address": "Pui O Beach, Lantau",
+      "Facility": "<li>Wash basin (with 3 taps)<br><li>Toilets (including accessible toilet)<br>",
+      "Pit": "6 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Silver Mine Bay Beach",
+      "Address": "Silver Mine Bay Beach, Lantau Island",
+      "Facility": "<li>6 Wash basins (total 12 taps)<br><li>Toilets (including accessible toilet)<br>",
+      "Pit": "24 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Tong Fuk Barbecue Area",
+      "Address": "Tong Fuk, Lantau Island",
+      "Facility": "<li>Pavilion<br><li>Concrete table with bench<br>",
+      "Pit": "3 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Tung Wan Barbecue Area, Peng Chau",
+      "Address": "Tung Wa, Peng Chau",
+      "Facility": "<li>2 portable toilets<br><li>Picnic tables<br><li>Pavilion<br>",
+      "Pit": "6 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Upper Cheung Sha Beach",
+      "Address": "Upper Cheung Sha Beach, Lautau Island.",
+      "Facility": "Toilets (including accessible toilet)",
+      "Pit": "7 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Tai Mei Tuk Barbecue Area",
+      "Address": "Tai Po Tai Mei Tuk Road",
+      "Facility": "40 sets Barbecue pits, Benches and Tables.",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   },
+   {
+      "Name": "Approach Beach",
+      "Address": "10 1/2 milestone, Castle Peak Road - Ting Kau",
+      "Facility": "<li>Toilet",
+      "Pit": "2 BBQ pits",
+      "Hours": "12 hours daily"
+   },
+   {
+      "Name": "Hap Mun Bay Beach",
+      "Address": "Hap Mun Bay, Sharp Island",
+      "Facility": "22 barbecue pits, benches &amp; tables, toilet",
+      "Pit": "2 BBQ pits",
+      "Hours": "24 hours daily"
+   }
+]

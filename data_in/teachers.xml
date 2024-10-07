@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+    <teacher>
+        <name>Alex Wong</name>
+        <age>35</age>
+        <subject>Maths</subject>
+    </teacher>
+    <teacher>
+        <name>Justin Li</name>
+        <age>29</age>
+        <subject>Science</subject>
+    </teacher>
+    <teacher>
+        <name>Kang Chen</name>
+        <age>32</age>
+        <subject>History</subject>
+    </teacher>
+</teachers>

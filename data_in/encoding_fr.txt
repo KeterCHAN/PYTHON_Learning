@@ -1,0 +1,1 @@
+La série d'essais "Quoi de neuf dans Python" reprend les plus importants changements entres les versions majeures de Python. Elles sont à lire pour quiconque souhaitant être à jour suite à une nouvelle sortie.

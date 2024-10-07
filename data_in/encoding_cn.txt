@@ -1,0 +1,1 @@
+像 Perl 語言一樣, Python 源代碼同樣遵循 GPL(GNU General Public License) 協議>>>>像 Perl 語言一樣, Python 源代碼同樣遵循 GPL(GNU General Public License) 協議<<<<
