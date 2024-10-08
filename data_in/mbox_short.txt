@@ -79,7 +79,7 @@ Received: from murder ([unix socket])
 Received: from icestorm.mr.itd.umich.edu (icestorm.mr.itd.umich.edu [141.211.93.149])
 	by sleepers.mail.umich.edu () with ESMTP id m04NAbGa029441;
 	Fri, 4 Jan 2008 18:10:37 -0500
-Received: FROM paploo.uhi.ac.uk (app1.prod.collab.uhi.ac.uk [194.35.219.184])
+FROM paploo.uhi.ac.uk (app1.prod.collab.uhi.ac.uk [194.35.219.184])
 	BY icestorm.mr.itd.umich.edu ID 477EBCE3.161BB.4320 ; 
 	 4 Jan 2008 18:10:31 -0500
 Received: from paploo.uhi.ac.uk (localhost [127.0.0.1])
